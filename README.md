@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=993399&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+o+Arthur!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1B74E4&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+o+Arthur!+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,6 +8,13 @@
 > 🔹Meu nome é Arthur Carreiro, sou desenvolvedor back-end com mais de 3 anos de experiência em desenvolvimento de software. Desde o início da minha carreira, atuo no desenvolvimento e manutenção de sistemas distribuídos, utilizando arquiteturas baseadas em microsserviços e microfrontends, bem como provedores de nuvem como AWS e GCP.
 >
 > Possuo vivência em projetos nas fases de homologação e sustentação, prestando suporte N1 e N2, com forte foco em estabilidade e evolução das aplicações. Tenho experiência em observabilidade, testes automatizados e em um amplo ecossistema de tecnologias, incluindo React, Node.js, PostgreSQL, JUnit e Docker.
+
+<br/>
+
+<div> 
+  <a href = "mailto:art.mirandac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-mirandac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <br/>
 
@@ -29,9 +36,3 @@
 
 <br/>
 <br/>
-
-
-<div> 
-  <a href = "mailto:art.mirandac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-mirandac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
