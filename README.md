@@ -22,7 +22,7 @@
 
 > 🔹Linguagens: Java, SQL, JavaScript e TypeScript.
 > 
-> 🔹Frameworks: Spring Boot e React.
+> 🔹Frameworks: Spring Boot, JUnit e React.
 >
 > 🔹DevOps: AWS (EC2 e S3) e GCP.
 >
