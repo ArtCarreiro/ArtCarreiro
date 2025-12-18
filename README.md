@@ -20,15 +20,15 @@
 
 ## Hard Skills:
 
-> Linguagens: Java, SQL, JavaScript e TypeScript.
+> 🔹Linguagens: Java, SQL, JavaScript e TypeScript.
 > 
-> Frameworks: Spring Boot e React.
+> 🔹Frameworks: Spring Boot e React.
 > 
-> Técnicas: TDD, BDD, SOLID e Design Patterns.
+> 🔹Técnicas: TDD, BDD, SOLID e Design Patterns.
 >
-> DevOps: AWS (EC2 e S3) e GCP.
+> 🔹DevOps: AWS (EC2 e S3) e GCP.
 >
-> Outros: Docker e PostgreSQL, Git e GitHub
+> 🔹Outros: Docker e PostgreSQL, Git e GitHub
 
 
 <div style="display: inline_block"><br>
