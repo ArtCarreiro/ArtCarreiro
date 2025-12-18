@@ -51,8 +51,7 @@
 
 > 🔹MS (E-commerce)
 >
-> Microsserviço responsável pelas funcionalidades de e-commerce, como gestão de produtos, preços, pedidos e integração com meios de pagamento. Atua de forma independente, comunicando-se com outros serviços via APIs, garantindo escalabilidade, manutenibilidade e desacoplamento do sistema.
-
+> Microsserviço responsável pelas funcionalidades de e-commerce, como gestão de produtos, preços, pedidos e integração com meios de pagamento. Atua de forma independente, comunicando-se com outros serviços via APIs.
 
 <br/>
 <br/>
