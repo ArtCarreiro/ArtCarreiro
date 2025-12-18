@@ -12,7 +12,13 @@
 <br/>
 
 <div> 
-  <a href = "mailto:art.mirandac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:art.mirandac@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=art.mirandac@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Enviar e-mail via Gmail"
+  />
+</a>
   <a href="https://www.linkedin.com/in/arthur-mirandac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
