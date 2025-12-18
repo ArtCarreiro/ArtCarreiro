@@ -23,12 +23,12 @@
 > 🔹Linguagens: Java, SQL, JavaScript e TypeScript.
 > 
 > 🔹Frameworks: Spring Boot e React.
-> 
-> 🔹Técnicas: TDD, BDD, SOLID e Design Patterns.
 >
 > 🔹DevOps: AWS (EC2 e S3) e GCP.
 >
-> 🔹Outros: Docker e PostgreSQL, Git e GitHub
+> 🔹Técnicas: TDD, BDD, SOLID e Design Patterns.
+>
+> 🔹Outros: Docker, PostgreSQL, Git e GitHub
 
 
 <div style="display: inline_block"><br>
