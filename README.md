@@ -5,9 +5,10 @@
 </div>
 
 
-> 🔹Meu nome é Arthur Carreiro, sou desenvolvedor back-end com mais de 3 anos de experiência em desenvolvimento de software. Desde o início da minha carreira, atuo no desenvolvimento e manutenção de sistemas distribuídos, utilizando arquiteturas baseadas em microsserviços e microfrontends, bem como provedores de nuvem como AWS e GCP.
->
-> Possuo vivência em projetos nas fases de homologação e sustentação, prestando suporte N1 e N2, com forte foco em estabilidade e evolução das aplicações. Tenho experiência em observabilidade, testes automatizados e em um amplo ecossistema de tecnologias, incluindo React, Node.js, PostgreSQL, JUnit e Docker.
+> 🔹Meu nome é Arthur Carreiro, desenvolvedor backend com mais de 3 anos de experiência em Java e Spring Boot, atuando na construção de APIs REST e sistemas distribuídos em arquitetura de microsserviços. Experiência com
+integrações síncronas e assíncronas (gRPC e Kafka), autenticação com Keycloak (OIDC/JWT) e boas práticas como SOLID, DDD, Clean Code e TDD. Vivência com AWS, GCP, Docker, CI/CD e observabilidade com DataDog.
+> Atuação em investigação de incidentes em produção, melhoria de
+performance e desenvolvimento de soluções escaláveis.
 
 <br/>
 
@@ -26,15 +27,25 @@
 
 ## Hard Skills:
 
-> 🔹Linguagens: Java, SQL, JavaScript e TypeScript.
+>🔹 Backend: Java, Spring Boot, Python
 > 
-> 🔹Frameworks: Spring Boot, JUnit e React.
+>🔹 Frontend: React
+> 
+>🔹 Arquitetura: Microsserviços, DDD, Arquitetura Hexagonal, Arquitetura em Camadas
 >
-> 🔹DevOps: AWS (EC2 e S3) e GCP.
+>🔹 APIs & Integrações: REST, gRPC, JWT, Keycloak
 >
-> 🔹Técnicas: TDD, BDD, SOLID e Design Patterns.
+>🔹 Banco de Dados: PostgreSQL, MySQL
 >
-> 🔹Outros: Docker, PostgreSQL, Git e GitHub
+>🔹 Cloud & DevOps: AWS, Google Cloud (GCP), Docker, Jenkins
+>
+>🔹 Mensageria & Observabilidade: Kafka, DataDog
+>
+>🔹 Testes & Qualidade: JUnit, Testes Unitários, TDD, BDD
+>
+>🔹 Metodologia Ágil: SCRUM
+>
+>🔹 Outros: Git, GitHub, JPA, Hibernate, POO, SOLID, Design Patterns
 
 
 <div style="display: inline_block"><br>
