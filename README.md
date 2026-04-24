@@ -49,10 +49,14 @@ performance e desenvolvimento de soluções escaláveis.
 
 ## Projetos em andamento:
 
-> 🔹MS (E-commerce)
+> 🔹MS-API
 >
 > Microsserviço responsável pelas funcionalidades de e-commerce, como gestão de produtos, preços, pedidos e integração com meios de pagamento. Atua de forma independente, comunicando-se com outros serviços via APIs.
-
+>
+> 🔹MS-FRONT
+>
+> Frontend de marketplace construído com Angular 21, componentes standalone e consumo da MS-API. 
+>
 > 🔹SIGN
 >
 > Microsserviço responsável por assinatura digital de contratos.
