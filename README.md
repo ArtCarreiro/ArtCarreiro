@@ -29,7 +29,7 @@ performance e desenvolvimento de soluções escaláveis.
 
 >🔹 Backend: Java, Spring Boot, Python
 > 
->🔹 Frontend: Angular
+>🔹 Frontend: React
 > 
 >🔹 Arquitetura: Microsserviços, DDD, Arquitetura Hexagonal, Arquitetura em Camadas
 >
